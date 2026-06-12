@@ -160,6 +160,9 @@ venv.bak/
 # Configuration files
 *.yaml
 
+# Shell Scripts
+*.sh
+
 # Spyder project settings
 .spyderproject
 .spyproject
